@@ -1,0 +1,49 @@
+.title {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+    background-color:azure;
+    padding-top: 1px;
+    margin-top: 10px;
+    font-size:larger
+}
+.boxhead {
+    display:flex;
+}
+.box1 {
+    background-color:blanchedalmond;
+    justify-content:center;
+    position:relative;
+    width: 600px;
+    text-align: center;
+    margin:auto;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 50px;
+img {
+    width: 580px;
+}
+#date {
+    padding-left: 215px;
+    padding-top: 5px;  
+}
+.description {
+    padding-bottom: 4px;
+}
+body {
+    background-color: aliceblue;
+}
+#subtitle {
+    padding-bottom: 18px;
+    font-size: small;
+}
+h3 {
+    padding-left: 10px;
+}
+#date2 {
+    padding-left: 300px;
+    padding-top: 5px;  
+}
+#date3 {
+    padding-left: 350px;
+    padding-top: 5px;  
+}
